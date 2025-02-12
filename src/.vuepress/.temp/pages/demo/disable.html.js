@@ -1,3 +1,0 @@
-import comp from "H:/personal_data/demo/vuepress/test/my-docs/src/.vuepress/.temp/pages/demo/disable.html.vue"
-const data = JSON.parse("{\"path\":\"/demo/disable.html\",\"title\":\"布局与功能禁用\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"布局与功能禁用\",\"icon\":\"gears\",\"order\":4,\"category\":[\"使用指南\"],\"tag\":[\"禁用\"],\"navbar\":false,\"sidebar\":false,\"breadcrumb\":false,\"pageInfo\":false,\"contributors\":false,\"editLink\":false,\"lastUpdated\":false,\"prev\":false,\"next\":false,\"comment\":false,\"footer\":false,\"backtotop\":false},\"headers\":[],\"git\":{\"createdTime\":1739362070000,\"updatedTime\":1739362070000},\"readingTime\":{\"minutes\":0.43,\"words\":128},\"filePathRelative\":\"demo/disable.md\",\"localizedDate\":\"2025年2月12日\"}")
-export { comp, data }

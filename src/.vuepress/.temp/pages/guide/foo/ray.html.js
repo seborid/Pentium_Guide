@@ -1,3 +1,0 @@
-import comp from "H:/personal_data/demo/vuepress/test/my-docs/src/.vuepress/.temp/pages/guide/foo/ray.html.vue"
-const data = JSON.parse("{\"path\":\"/guide/foo/ray.html\",\"title\":\"Ray\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"Ray\",\"icon\":\"circle-info\"},\"headers\":[],\"git\":{\"createdTime\":1739362070000,\"updatedTime\":1739362070000,\"contributors\":[{\"name\":\"seborid620\",\"username\":\"seborid620\",\"email\":\"2758126645@qq.com\",\"commits\":1,\"url\":\"https://github.com/seborid620\"}]},\"readingTime\":{\"minutes\":0.03,\"words\":10},\"filePathRelative\":\"guide/foo/ray.md\",\"localizedDate\":\"2025年2月12日\"}")
-export { comp, data }

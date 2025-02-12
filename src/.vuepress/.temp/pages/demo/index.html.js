@@ -1,3 +1,0 @@
-import comp from "H:/personal_data/demo/vuepress/test/my-docs/src/.vuepress/.temp/pages/demo/index.html.vue"
-const data = JSON.parse("{\"path\":\"/demo/\",\"title\":\"主要功能与配置演示\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"主要功能与配置演示\",\"index\":false,\"icon\":\"laptop-code\",\"category\":[\"使用指南\"]},\"headers\":[],\"git\":{\"createdTime\":1739362070000,\"updatedTime\":1739362070000,\"contributors\":[{\"name\":\"seborid620\",\"username\":\"seborid620\",\"email\":\"2758126645@qq.com\",\"commits\":1,\"url\":\"https://github.com/seborid620\"}]},\"readingTime\":{\"minutes\":0.07,\"words\":22},\"filePathRelative\":\"demo/README.md\",\"localizedDate\":\"2025年2月12日\"}")
-export { comp, data }
