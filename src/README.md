@@ -1,326 +1,260 @@
----
-home: true
-icon: house
-title: 项目主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
-bgImageStyle:
-  background-attachment: fixed
-heroText: 项目名称
-tagline: 你可以在这里放置或是整个项目的描述。
-actions:
-  - text: 使用指南
-    icon: lightbulb
-    link: ./demo/
-    type: primary
+﻿编写说明：（快给我贴视频！）
 
-  - text: 文档
-    link: ./guide/
+以b站视频和少量补充性文字为主（b站硬件视频合集？）
 
-highlights:
-  - header: 易于安装
-    image: /assets/image/box.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
-    highlights:
-      - title: 运行 <code>pnpm create vuepress-theme-hope hope-project</code> 以创建一个新的主题项目。
-      - title: 在已有项目根目录下运行 <code>pnpm create vuepress-theme-hope add .</code> 以在项目中添加主题。
+大纲：
 
-  - header: 在 Markdown 中添加你想要的内容
-    description: 我们扩展了标准的 CommonMark 规范，为你添加了成吨功能。
-    image: /assets/image/markdown.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
-    bgImageStyle:
-      background-repeat: repeat
-      background-size: initial
-    features:
-      - title: 链接检查
-        icon: clipboard-check
-        details: 检查 Markdown 链接
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
+分为四个大篇：
 
-      - title: 提示容器
-        icon: box-archive
-        details: 用样式装饰 Markdown 内容
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
+每篇都分为基础和进阶两部分。
 
-      - title: GFM 警告
-        icon: bell
-        details: GFM 风格的警告容器
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/alert.html
+概论篇：目的：对计算机硬件做大体介绍，激发学习兴趣为主（我要成为超频高手！）基础部分放点好康的，进阶部分可以放些长时间的，硬核的内容。
 
-      - title: 选项卡
-        icon: table-columns
-        details: 使用选项卡对相似内容进行分组
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/content/tabs.html
+部门职能篇：目的：起码让每个进奔腾的人都能值班（把饭喂到嘴边）。职能也分基础和进阶，基础有：拆机，清灰，换硅脂，换装固态、网卡、内存，电脑系统重装，系统引导修复和电脑实用软件推荐。进阶有：电子产品选购，台式机组装，电脑故障排查，虚拟机，双系统，局域网（内容可以自行添加）。
 
-      - title: 代码组
-        icon: code
-        details: 使用选项卡对相似代码进行分组
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/code-tabs.html
+硬件篇：（核心篇）目的：让小白在看完基础部分后对计算机的硬件组成、每个硬件的功能和具体安装操作有大致的了解，看完进阶部分后要求小白对每个硬件都有能力自行选购。每个硬件单独的划分基础部分和进阶部分，基础部分内容主要为硬件的功能和安装教程，进阶部分内容应该包含硬件的各种名称的解释（7800x3d，14900KS），硬件的主要参数介绍（AM5，B650，Z790，DDR4），硬件的不同厂商间各种差异（AMD和Intel），还可以补充一些硬件的发展历史，最近几年和未来的变化等等。总之，硬件内容过于杂乱，可充分自由发挥。
 
-      - title: 自定义对齐
-        icon: align-center
-        details: Markdown 中对内容进行自定义对齐
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/align.html
+杂项：可以放点别的内容，比如推荐的up主等等。
 
-      - title: 自定义属性
-        icon: code
-        details: 为 Markdown 元素添加属性
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/attrs.html
+目标：
 
-      - title: 上下角标
-        icon: superscript
-        details: 轻松在 Markdown 中添加上下角标
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/sup-sub.html
+1. 入门：概论篇的基础和部门职能篇的基础部分必看，要求看完之后纯小白也可以应对部门值班中的一般任务。
+1. 基础：看完所有基础部分：了解各种硬件，能够自行组装一台台式机。（仅要求动手组装，对购买不做要求）
+1. 进阶：看完所有进阶部分：对所有硬件都有所了解，知道硬件行业的最新进展，有能力独立的完成从需求分析，硬件购买到装机，装系统全流程的组装一台台式机。
 
-      - title: 脚注
-        icon: quote-left
-        details: 在内容中插入脚注
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/content/footnote.html
+编写规则：
 
-      - title: 标记
-        icon: highlighter
-        details: 标记并高亮内容
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/mark.html
+视频内容（或标题）+bv号+视频后带发布时间（年月日） （现在视频标题为什么都这么长
 
-      - title: 剧透
-        icon: eraser
-        details: 添加剧透标记支持
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/spoiler.html
 
-      - title: 任务列表
-        icon: square-check
-        details: 轻松插入任务列表
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/tasklist.html
 
-      - title: 图片语法
-        icon: image
-        details: 使用改进的语法指定图片大小与颜色模式
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/image.html
 
-      - title: 组件支持
-        icon: puzzle-piece
-        details: 在 Markdown 中轻松插入组件
-        link: https://theme-hope.vuejs.press/zh/guide/component/grammar.html
 
-      - title: 组件
-        icon: puzzle-piece
-        details: 开箱即用的常用组件
-        link: https://theme-hope.vuejs.press/zh/guide/component/built-in.html
 
-      - title: Chart.js 支持
-        icon: chart-simple
-        details: 在 Markdown 中展示 Chart.js 图表
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/chart/chartjs.html
 
-      - title: 流程图支持
-        icon: route
-        details: 在 Markdown 中直接写出流程图
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/chart/flowchart.html
 
-      - title: Mermaid 支持
-        icon: chart-pie
-        details: 在 Markdown 中添加 Mermaid 图例
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/chart/mermaid.html
 
-      - title: Plantuml 支持
-        icon: diagram-project
-        details: 在 Markdown 中添加 Plant UML 图表
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/chart/plantuml.html
 
-      - title: Tex 支持
-        icon: square-root-variable
-        details: Markdown 现在也可以支持 Tex 语法以显示公式
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/math.html
 
-      - title: 导入文件支持
-        icon: fa6-brands:markdown
-        details: 将你的文档分段，并在 Markdown 中导入
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/content/include.html
+## **使用说明：**
+`	`首先欢迎各位来到奔腾特勤队。
 
-      - title: 交互演示支持
-        icon: code
-        details: 你可以在 Markdown 中添加交互演示
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/playground.html
+`	`希望这篇手册可以成为你在了解电脑硬件路上的敲门砖。
 
-      - title: Kotlin 交互演示支持
-        icon: fa6-brands:kickstarter
-        details: 响应式的 Kotlin 演示
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/kotlin-playground.html
+`	`这篇手册是各种资源的大杂烩，主要是b站视频，格式为：主要内容+BV号+加视频日期。使用这篇手册的使用方式也十分简单，跟着给出的bv号刷视频就行，尽量减少新手对硬件感到迷茫的时间是这篇手册最大的目的。
 
-      - title: Vue 交互演示支持
-        icon: fa6-brands:vuejs
-        details: 在交互演示中展示 Vue 组件
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/vue-playground.html
+`	`如果你是纯小白，那我推荐你按先基础全看再进阶挑选着看的顺序将这篇手册推荐的资源看完。如果你已经对硬件有所了解，甚至很了解，那我也不希望你完全跳过这篇手册，毕竟学无止境。
 
-      - title: Sandpack 交互演示支持
-        icon: code
-        details: Sandpack 驱动的实时的编码环境
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/sandpack.html
+`	`手册分为四个篇章，每一篇都特色分明，且分为基础和进阶两个部分。
 
-      - title: 代码案例支持
-        icon: laptop-code
-        details: 你可以很方便的插入代码案例
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/demo.html
+`	`整个手册可根据难度又分为四个不同层次，不同层次的目标如下：
 
-      - title: 幻灯片支持
-        icon: person-chalkboard
-        details: 通过 Reveal.js 在 Markdown 中插入幻灯片
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/content/revealjs.html
+1. 入门：概论篇的基础和部门职能篇的基础部分是必看部分（书可以不着急慢慢看），视频看完之后可以进行部门值班。
+1. 基础：看完所有基础部分：了解各种硬件，能够自行组装一台台式机。
+1. 进阶：看完所有进阶部分：对所有硬件都有所了解，知道硬件行业的最新进展，有能力独立的完成从需求分析，硬件购买到装机，装系统全流程的组装一台台式机。
+1. 自由发展：在了解完电脑硬件之后自然可以再去深入了解手机，平板，耳机，单反甚至电动汽车等电子产品，这时杂项里的内容应该会有所帮助。
 
-  - header: 可定制的页面
-    description: 完整无障碍支持的可定制外观
-    image: /assets/image/ui.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/9-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/9-dark.svg
-    highlights:
-      - title: 深色模式
-        icon: circle-half-stroke
-        details: 可以自由切换浅色模式与深色模式
-        link: https://theme-hope.vuejs.press/zh/guide/interface/darkmode.html
 
-      - title: 主题色切换
-        icon: palette
-        details: 支持自定义主题色并允许用户在预设的主题颜色之间切换
-        link: https://theme-hope.vuejs.press/zh/guide/interface/theme-color.html
+## **一.概论篇**
+### **基础部分**
+《浪潮之巅》（没错是本书，而且是一本大部头，但是做为计算机学生，我还是认为有必要看的，资源在群里）
 
-      - title: 更多
-        icon: ellipsis
-        details: RTL 布局，打印支持，全局按钮等
-        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
+《你缺失的那门计算机课》（对计算机的知识全面但浅显的总结，资源在群里）
 
-  - header: 布局
-    description: 一个完美的响应式布局。
-    image: /assets/image/layout.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
-    highlights:
-      - title: 导航栏
-        icon: window-maximize
-        details: 完全可定制的导航栏以及改进的移动端外观
-        link: https://theme-hope.vuejs.press/zh/guide/layout/navbar.html
+计算机光速入门BV1vp4y1L7Yb(230907）（像硬件大纲，全但短）
 
-      - title: 侧边栏
-        icon: fas fa-window-maximize fa-rotate-270
-        details: 从文档标题或文件结构中自动生成侧边栏
-        link: https://theme-hope.vuejs.press/zh/guide/layout/sidebar.html
+给手机装Windows11！还能玩大型游戏？！BV1MU4y137Yi（210706）（整好活是一大乐趣）
 
-      - title: 幻灯片页面
-        icon: person-chalkboard
-        details: 添加幻灯片页面以显示你喜欢的内容
-        link: https://theme-hope.vuejs.press/zh/guide/layout/slides.html
+1200元组装神机！能干翻2万元冤种游戏本吗？ BV1ka4y117Fj（240113）
 
-      - title: 布局增强
-        icon: object-group
-        details: 添加路径导航、页脚、改进的导航栏、改进的页面导航等。
-        link: https://theme-hope.vuejs.press/zh/guide/layout/
+### **进阶部分** 
+计算机速成班BV1JZ4y1i7az（220624）（强烈推荐，内容有趣且全面，比上信概有意思）
 
-      - title: 更多
-        icon: ellipsis
-        details: RTL 布局，打印支持，全局按钮等
-        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
+[How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/tree/main)（提问也是一门艺术）
 
-  - header: 新功能
-    image: /assets/image/features.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
-    features:
-      - title: 目录页面
-        icon: network-wired
-        details: 自动生成目录页以及开箱即用的目录组件
-        link: https://theme-hope.vuejs.press/zh/guide/feature/catalog.html
+intel14代测评 av492307442（231017）（且看且珍惜吧，指不定哪天intel就四了）
 
-      - title: 浏览量与评论
-        icon: comment-dots
-        details: 配合 4 个评论服务开启阅读量统计与评论支持
-        link: https://theme-hope.vuejs.press/zh/guide/feature/comment.html
+amd9000系测评 BV1FU411S7cb（240807）（没了intel我还怎么买便宜的amd啊）
 
-      - title: 文章信息
-        icon: circle-info
-        details: 为你的文章添加作者、写作日期、预计阅读时间、字数统计等信息
-        link: https://theme-hope.vuejs.press/zh/guide/feature/page-info.html
+## **二.部门职能篇**
+### **基础部分（拆机，清灰，换硅脂，换装固态、网卡、内存，电脑系统重装，系统引导修,电脑实用软件推荐）**
+#### **拆机：（视频内容比较多，感觉内容枯燥可以选择倍速（不准不看！））**
+##### **拆机清灰大致步骤：（必看）**
+检查电脑是否关机->检查手上是是否有静电->拆电脑后盖（魔霸，枪神系列后盖上有rgb线，具体情况请看视频）->拔电源线（天选5会打火，具体情况请看拆机视频）->清灰->换硅脂（非必须）->开机检查->安装后盖
+##### **典型机型拆机视频：**
+联想：（最常见品牌）
 
-      - title: 文章加密
-        icon: lock
-        details: 你可以为你的特定页面或特定目录进行加密，以便陌生人不能随意访问它们
-        link: https://theme-hope.vuejs.press/zh/guide/feature/encrypt.html
+`	`Y9000P2023/2024拆机：BV17h411V71y(230328)
 
-      - title: 搜索支持
-        icon: search
-        details: 支持 docsearch 和基于客户端的搜索
-        link: https://theme-hope.vuejs.press/zh/guide/feature/search.html
+`	`Y9000P2022拆机：BV1GL411P7zX（220311）（和2023/4款在拆后盖上有很大不同）
 
-      - title: 代码块
-        icon: code
-        details: 自定义代码块主题、行号、行高亮、复制按钮等
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/fence.html.html
+R7000/R7000P拆机：BV1ST411n7of（230421）
 
-      - title: 图片预览
-        icon: image
-        details: 像相册一样允许你浏览、缩放并分享你的页面图片
-        link: https://theme-hope.vuejs.press/zh/guide/feature/photo-swipe.html
+华硕：（豪坎）
 
-  - header: 博客
-    description: 通过主题创建个人博客
-    image: /assets/image/blog.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
-    highlights:
-      - title: 博客功能
-        icon: blog
-        details: 通过文章的日期、标签和分类展示文章
-        link: https://theme-hope.vuejs.press/zh/guide/blog/intro.html
+天选系列：
 
-      - title: 博客主页
-        icon: house
-        details: 全新博客主页
-        link: https://theme-hope.vuejs.press/zh/guide/blog/home.html
+天选5拆机：BV1P64y1P7R（240122）（天选系列比较特殊，断电后必须插电才能开机）
 
-      - title: 博主信息
-        icon: circle-info
-        details: 自定义名称、头像、座右铭和社交媒体链接
-        link: https://theme-hope.vuejs.press/zh/guide/blog/blogger.html
+天选4 拆机：BV1cj411o7yz（230717）
 
-      - title: 时间线
-        icon: clock
-        details: 在时间线中浏览和通读博文
-        link: https://theme-hope.vuejs.press/zh/guide/blog/timeline.html
+ROG（玩家国度）
 
-  - header: 高级
-    description: 增强站点与用户体验的高级功能
-    image: /assets/image/advanced.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
-    highlights:
-      - title: SEO 增强
-        icon: dumbbell
-        details: 将最终生成的网页针对搜索引擎进行优化。
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/seo.html
+魔霸7plus：BV19T411r7dE（230317）（液金机型只负责简单清灰，禁止拆散热模组！！！）
 
-      - title: Sitemap
-        icon: sitemap
-        details: 自动为你的网站生成 Sitemap
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/sitemap.html
+戴尔：（退出中国市场）
 
-      - title: Feed 支持
-        icon: rss
-        details: 生成你的 Feed，并通知你的用户订阅它
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/feed.html
+G15 受制于主板倒装结构 故拆解过程非常麻烦 如果需要换硅脂 需要拆下几乎所有部件
 
-      - title: PWA 支持
-        icon: mobile-screen
-        details: 让你的网站更像一个 APP
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/pwa.html
+拆机视频：BV13h411m79S
 
-copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-至今 Mr.Hope
----
+华为：（轻薄本代表）
 
-这是项目主页的案例。你可以在这里放置你的主体内容。
+matebook14拆机：BV1hA4m1V7bQ（240215）
 
-想要使用此布局，你需要在页面 front matter 中设置 `home: true`。
+其余品牌机型请在值班遇到时自行百度
 
-配置项的相关说明详见 [项目主页配置](https://theme-hope.vuejs.press/zh/guide/layout/home/)。
+#### **系统重装：**
+要求每人制作一个启动盘（带有win11，win10镜像），值班时用
+
+系统重装教程：BV19T411r7dE（240914）
+
+#### **系统引导修复：**
+dism++使用教程（了解即可）：BV1ae411e7ck(240109)
+
+#### **电脑实用软件推荐：（不知道用处请自行百度）**
+geek
+
+everything
+
+DiskGenius
+
+U启通
+
+图吧工具箱
+
+Game++
+
+steam
+
+winrar
+
+校园网自动登录软件
+
+PotPlayer
+
+BitComet
+
+（以上软件请在群文件自取）
+
+### **进阶部分（电子产品选购，台式机组装，电脑故障排查，虚拟机，双系统，局域网）**
+#### **电子产品选购：**
+##### **笔记本电脑：**
+主旨：尽可能在目标预算下给他人推荐一款可靠的，符合他人实际使用，性价比高的产品（可靠和他人的感受均在性比价之前，这也是我们部门不会主动推荐机械革命的原因）
+
+2024笔记本推荐：（极为笼统，仅供参考）
+
+3000-6000:8845hs的轻薄本 
+
+6000-8000：天选5或拯救者（不主动推荐拯救者，溢价过于严重）
+
+24年笔记本选购建议：BV1dn4y1d74E（240522）（一定要具体情况具体分析）
+
+#### **台式机组装：**
+请先看完硬件篇的基础部分
+
+不同的硬件有不同的特点，即使是教程也无法全面覆盖，组装台式时，看说明书是一个很好的习惯。
+
+安装教程：BV1BG4y137mG（221210）
+
+#### **电脑故障排查：**
+（这已经不是普通的问题了，要出重拳（bushi））
+
+电脑故障时有发生，可大可小，十分考验人的综合能力，在这里不可能一一列举。
+
+其实解决问题的最好办法就是先自行分析原因，再去网上找是否有相似案例和解决方案，如果单凭自己的力量无法解决，那么就谦虚寻找他人求助。如何正确的求助也是一门学问，具体请看概论篇的进阶部分：How-To-Ask-Questions-The-Smart-Way
+
+
+
+
+## **三.硬件篇**
+### **CPU**
+##### **基础：**
+##### **进阶：**
+### **主板**
+主板的好坏之分需要考虑的点非常多，比起选择一块性价比高的主板，选择一块适合自己的主板更重要。
+
+主板芯片组介绍建议参考B站UP：Andyskiwis
+
+intel：
+
+Z790: BV1iL411i7Xe
+
+Z690: BV1Bk4y177BX BV1L14y1D729 BV1Bs4y1e7HN
+
+B760: BV1KM4y1a73Z BV1ph411j7s9
+
+B660: BV1424y177Kg BV1Bh411g779
+
+amd:
+
+`    `AM5 重置介绍：BV1rN41147Bn BV1a1421y78V BV1U4421S7gH
+
+X670: BV1PT411D7kN BV18T411e7uk
+
+B650: BV1rA411z7Cj BV1bx4y1F7Lf
+### **显卡**
+[A卡崛起之路：重现当年AN显卡巅峰对决！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1YJ411h7aY/?vd_source=28e145a07d9661fa47a23c994fbdcfd3)
+### **内存**
+### **存储**
+本在线文档编写时固态硬盘已经实现了对大部分消费者的普及，故不在此部分进行机械硬盘的推荐
+
+固态硬盘入门和高端产品的价格差价相当大，但是实际使用体验提升有限
+
+对于普通消费者如何分辨固态的好坏有以下几点：
+
+1. TLC/QLC 只购买TLC 固态 除非QLC固态足够便宜
+1. 原厂/非原厂 原厂指能够自主生产颗粒的厂商推出的固态（三星/西数/铠侠/        长存（仅限于致钛，不包括其他任何品牌）/海力士）鉴于当下硬盘价格（2024.9）
+
+`   `只推荐原厂硬盘
+
+1. 有缓/无缓 有缓盘往往性能较强 但发热大 适合matx/atx台式
+
+`            `无缓盘性能略弱于有缓 但发热小 适合笔记本/itx
+
+1. oem盘 指硬盘厂商提供给其他企业的硬盘，其中一部分有其对应的零售型号，但是这些硬盘没有官方质保不推荐购买（以下左为oem代号 右为零售名称）
+
+   三星：PM9A1 - 980PRO
+
+   `      `PM9F1 - 990PRO
+
+   西数：
+
+   `      `SN810 - SN850
+
+   `      `SN820 - SN850X
+
+   `      `SN740 - SN770
+
+   长存
+
+   `      `PC411 - TiPLUS7100
+
+   海力士
+
+   `      `PC801 - 海力士P41/SOLIDIGM P44 PRO
+
+
+
+### **电源**
+### **网卡**
+### **风扇**
+### **机箱**
+### **屏幕**
+### **鼠标**
+### **键盘**
+### **手柄**
+
+## **四.杂项**
+### **Up主部分**
+
