@@ -1,0 +1,3 @@
+import comp from "H:/personal_data/demo/vuepress/test/my-docs/src/.vuepress/.temp/pages/demo/layout.html.vue"
+const data = JSON.parse("{\"path\":\"/demo/layout.html\",\"title\":\"布局\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"布局\",\"icon\":\"object-group\",\"order\":2,\"category\":[\"指南\"],\"tag\":[\"布局\"]},\"headers\":[],\"git\":{\"createdTime\":1739362070000,\"updatedTime\":1739362070000,\"contributors\":[{\"name\":\"seborid620\",\"username\":\"seborid620\",\"email\":\"2758126645@qq.com\",\"commits\":1,\"url\":\"https://github.com/seborid620\"}]},\"readingTime\":{\"minutes\":0.53,\"words\":159},\"filePathRelative\":\"demo/layout.md\",\"localizedDate\":\"2025年2月12日\"}")
+export { comp, data }
