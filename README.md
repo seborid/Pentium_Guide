@@ -6,7 +6,7 @@
 ## 编写方法（省流版）   
 1. fork仓库到自己的github账号，再用git克隆项目到本地文件夹
 2. 在文件夹下运行 `pnpm install` 安装相关依赖
-3. 打开`src`文件夹下的`README.md`文件，开始发电
+3. 打开`src`文件夹下的`README.md`文件，开始发电,终端运行`pnpm docs:dev`查看实时渲染结果
 4. 提交pr
 
 ## 编写方法   

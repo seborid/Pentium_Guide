@@ -1,5 +1,4 @@
-﻿
-# 奔腾特勤队培训手册
+﻿# 奔腾特勤队培训手册
 
 
 ## 使用说明：
@@ -44,7 +43,7 @@
 >
 > <a href="https://www.bilibili.com/video/BV1ka4y117Fj/?spm_id_from=333.337.search-card.all.click">1200元组装神机！能干翻2万元冤种游戏本吗？</a>（240113）   
 >书籍给出的网站都来自于<a href="https://zh.z-library.sk/">Zlibary</a>   
-><span style="background-color: black; color: black; cursor: pointer;" onmouseover="this.style.color='white'" onmouseout="this.style.color='black'">需要科学上网，此处有神秘网站 https://mojie.app/</span>
+>!!需要科学上网，此处有神秘网站https://mojie.app!! 
 
 ### 概论篇进阶部分
 

@@ -1,19 +1,18 @@
 import { hopeTheme } from "vuepress-theme-hope";
 
 import navbar from "./navbar.js";
-import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://seborid.github.io/Pentium_Guide/",
 
   author: {
-    name: "Seborid",
+    name: "seborid",
     url: "https://github.com/seborid",
   },
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "seborid/Pentium_Guide",
 
   docsDir: "src",
 
@@ -21,12 +20,15 @@ export default hopeTheme({
   navbar,
 
   // 侧边栏
-  sidebar,
+  sidebar:false,
 
-  darkmode:"auto",
-
+  navbarLayout: {
+    start: [""],
+    center: [""],
+    end: ["Outlook"],
+  },
   // 页脚
-  footer: "默认页脚",
+  footer: "Powered by VuePress Theme Hope",
   displayFooter: true,
 
   // 加密配置
@@ -45,7 +47,7 @@ export default hopeTheme({
   },
 
   // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
-  // hotReload: true,
+  hotReload: true,
 
   // 此处开启了很多功能用于演示，你应仅保留用到的功能。
   markdown: {
@@ -121,14 +123,6 @@ export default hopeTheme({
 
   // 在这里配置主题提供的插件
   plugins: {
-    // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
-    comment: {
-      provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
-    },
 
     components: {
       components: ["Badge", "VPCard"],
