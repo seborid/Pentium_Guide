@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://seborid.github.io/Pentium_Guide/sitemap.xml
