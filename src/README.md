@@ -31,9 +31,10 @@
 
 ### 概论篇基础部分
 
+[HDU计算机科学讲义](https://hdu-cs.wiki/)（非常有用的网站，指导cser大学生活学习的方方面面）
 <a href="https://www.bilibili.com/video/BV1vp4y1L7Yb/?spm_id_from=333.337.search-card.all.click">计算机光速入门</a>（230907）（硬件大纲，全但短）
 >
-> 以下为十分推荐但并非强制：
+> 以下为十分推荐：
 >
 > <a href="https://zh.z-library.sk/book/5315955/1a9d9f/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85%E7%AC%AC%E5%9B%9B%E7%89%88.html">《浪潮之巅》</a>（没错是本书，而且是一本大部头，但是作为计算机学生，我还是认为有必要看的）
 >
@@ -79,7 +80,7 @@
 
 华硕（豪坎）   
 天选系列
->[天选6拆机]()（天选系列比较特殊，断电后必须插电才能开机,称之为运输保护）  
+>[天选6拆机](https://www.bilibili.com/video/BV1vPVJzbEVh)（天选系列比较特殊，断电后必须插电才能开机,运输保护）（250503）
 > [天选5拆机](https://www.bilibili.com/video/BV1P64y1P7R)（240122）   
 > [天选4拆机](https://www.bilibili.com/video/BV1cj411o7yz)（230717）   
 
@@ -377,6 +378,3 @@ i7、r7以上需要6热管以上风冷，推荐pa120
 
 ## 四.杂项
 
-### Up主部分
-
-（未完待续）
