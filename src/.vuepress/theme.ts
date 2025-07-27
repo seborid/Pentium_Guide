@@ -7,8 +7,8 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "Seborid",
+    url: "https://github.com/seborid",
   },
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
@@ -22,6 +22,8 @@ export default hopeTheme({
 
   // 侧边栏
   sidebar,
+
+  darkmode:"auto",
 
   // 页脚
   footer: "默认页脚",
@@ -135,7 +137,6 @@ export default hopeTheme({
     icon: {
       prefix: "fa6-solid:",
     },
-
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
     // pwa: {
     //   favicon: "/favicon.ico",

@@ -7,8 +7,8 @@ export default defineUserConfig({
   base: "/my-docs/",
 
   lang: "zh-CN",
-  title: "文档演示",
-  description: "vuepress-theme-hope 的文档演示",
+  title: "cumt奔腾特勤队指南",
+  description: "",
 
   theme:hopeTheme({
     navbar:false,
