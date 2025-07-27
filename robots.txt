@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://seborid.github.io/Pentium_Guide/sitemap.xml
+Sitemap: https://seborid.github.io/Pentium_Guide/Pentium_Guide/sitemap.xml
