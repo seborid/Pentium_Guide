@@ -1,6 +1,5 @@
 ﻿# 奔腾特勤队入门指南
 
-
 ## 使用说明：
 
 首先欢迎各位来到奔腾特勤队。
@@ -15,17 +14,11 @@
 
 整个手册根据知识量分为四个不同层次，不同层次的目标如下：
 
-1. 入门：   
-概论篇的基础和部门职能篇的基础部分是必看部分，看完之后可以进行常规部门值班。
-
-2. 基础：   
-看完所有基础部分，了解各种硬件，能够自行组装一台台式机。
-
-3. 进阶：   
-看完所有进阶部分，对所有计算机硬件都有所了解，知道硬件行业的最新进展，有能力独立完成从需求分析，硬件购买，到装机装系统全流程的组装一台台式机。
-
-4. 自由发展：   
-在了解完电脑硬件之后自然可以再去深入了解手机，平板，耳机，单反甚至电动汽车等电子产品，这时杂项里的内容应该会有所帮助。（施工中）
+1. 入门：概论篇的基础和部门职能篇的基础部分是必看部分，看完之后可以进行常规部门值班。
+2. 基础：看完所有基础部分，了解各种硬件，能够自行组装一台台式机。
+3. 进阶：看完所有进阶部分，对所有计算机硬件都有所了解，知道硬件行业的最新进展，有能力独立完成从需求分析，硬件购买，到装机装系统全流程的组装一台台式机。
+4. 自由发展：
+   在了解完电脑硬件之后自然可以再去深入了解手机，平板，耳机，单反甚至电动汽车等电子产品，这时杂项里的内容应该会有所帮助。（施工中）
 
 ## 一.概论篇
 
@@ -33,23 +26,23 @@
 
 [HDU计算机科学讲义](https://hdu-cs.wiki/)（非常有用的网站，指导cser大学生活学习的方方面面）
 [cumt生存手册](https://live.cumt.asia)
-<a href="https://www.bilibili.com/video/BV1vp4y1L7Yb/?spm_id_from=333.337.search-card.all.click">计算机光速入门</a>（230907）（硬件大纲，全但短）
->
+`<a href="https://www.bilibili.com/video/BV1vp4y1L7Yb/?spm_id_from=333.337.search-card.all.click">`计算机光速入门 `</a>`（230907）（硬件大纲，全但短）
+
 > 以下为十分推荐：
 >
-> <a href="https://zh.z-library.sk/book/5315955/1a9d9f/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85%E7%AC%AC%E5%9B%9B%E7%89%88.html">《浪潮之巅》</a>（没错是本书，而且是一本大部头，但是作为计算机学生，我还是认为有必要看的）
+> `<a href="https://zh.z-library.sk/book/5315955/1a9d9f/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85%E7%AC%AC%E5%9B%9B%E7%89%88.html">`《浪潮之巅》`</a>`（没错是本书，而且是一本大部头，但是作为计算机学生，我还是认为有必要看的）
 >
-> <a href="https://zh.z-library.sk/book/117790715/519e3e/%E4%BD%A0%E7%BC%BA%E5%A4%B1%E7%9A%84%E9%82%A3%E9%97%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%BE.html">《你缺失的那门计算机课》</a>（对计算机的知识全面但浅显的总结）
+> `<a href="https://zh.z-library.sk/book/117790715/519e3e/%E4%BD%A0%E7%BC%BA%E5%A4%B1%E7%9A%84%E9%82%A3%E9%97%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%BE.html">`《你缺失的那门计算机课》`</a>`（对计算机的知识全面但浅显的总结）
 >
-> <a href="https://www.bilibili.com/video/BV1MU4y137Yi/?spm_id_from=333.337.search-card.all.click">给手机装Windows11！还能玩大型游戏？！</a>（210706）（整好活是一大乐趣）
+> `<a href="https://www.bilibili.com/video/BV1MU4y137Yi/?spm_id_from=333.337.search-card.all.click">`给手机装Windows11！还能玩大型游戏？！`</a>`（210706）（整好活是一大乐趣）
 >
-> <a href="https://www.bilibili.com/video/BV1ka4y117Fj/?spm_id_from=333.337.search-card.all.click">1200元组装神机！能干翻2万元冤种游戏本吗？</a>（240113）   
->书籍给出的网站都来自于<a href="https://zh.z-library.sk/">Zlibary</a>   
->!!需要科学上网，此处有神秘网站https://mojie.app!! 
+> `<a href="https://www.bilibili.com/video/BV1ka4y117Fj/?spm_id_from=333.337.search-card.all.click">`1200元组装神机！能干翻2万元冤种游戏本吗？`</a>`（240113）
+> 书籍给出的网站都来自于 `<a href="https://zh.z-library.sk/">`Zlibary `</a>`
+> !!需要科学上网，此处有神秘网站https://mojie.app!!
 
 ### 概论篇进阶部分
 
-<a href="https://www.bilibili.com/video/BV1EW411u7th/?spm_id_from=333.337.search-card.all.click">计算机速成班（220624）</a>（强烈推荐，内容有趣且全面，比上信概有意思）
+`<a href="https://www.bilibili.com/video/BV1EW411u7th/?spm_id_from=333.337.search-card.all.click">`计算机速成班（220624）`</a>`（强烈推荐，内容有趣且全面，比上信概有意思）
 
 [*How-To-Ask-Questions-The-Smart-Way*](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/tree/main#tdsub)（提问也是一门艺术）
 
@@ -60,12 +53,14 @@
 ## 二.部门职能篇
 
 ### 部门职能篇基础部分
+
 1. 拆机
 2. 电脑系统重装
 3. 系统引导修修复
 4. 电脑实用软件推荐
 
 #### 1.拆机：
+
 <p style="color:red">（视频内容比较多，感觉内容枯燥可以选择倍速（不准不看！））</p>
 
 <p color=#FF0000>拆机清灰大致步骤（必看,以及请每人准备一套螺丝刀套装在值班时使用）:</p>
@@ -74,67 +69,113 @@
 
 ##### 典型机型拆机视频：
 
-联想（最常见品牌）   
->[Y9000P2023/2024拆机](https://www.bilibili.com/video/BV17h411V71y)(230328)   
->[Y9000P2022拆机](https://www.bilibili.com/video/BV1GL411P7zX)（220311）（和2023/4款在拆后盖上有很大不同）  
->[R7000/R7000P拆机](https://www.bilibili.com/video/BV1ST411n7of)（230421）
+联想（最常见品牌）
 
-华硕（豪坎）   
-天选系列
->[天选6拆机](https://www.bilibili.com/video/BV1vPVJzbEVh)（天选系列比较特殊，断电后必须插电才能开机,运输保护）（250503）
-> [天选5拆机](https://www.bilibili.com/video/BV1P64y1P7R)（240122）   
-> [天选4拆机](https://www.bilibili.com/video/BV1cj411o7yz)（230717）   
+> [Y9000P2023/2024拆机](https://www.bilibili.com/video/BV17h411V71y)(230328)
+> [Y9000P2022拆机](https://www.bilibili.com/video/BV1GL411P7zX)（220311）（和2023/4款在拆后盖上有很大不同）
+> [R7000/R7000P拆机](https://www.bilibili.com/video/BV1ST411n7of)（230421）
+
+华硕（豪坎）天选系列
+
+> [天选6拆机](https://www.bilibili.com/video/BV1vPVJzbEVh)（天选系列比较特殊，断电后必须插电才能开机,运输保护）（250503）
+> [天选5拆机](https://www.bilibili.com/video/BV1P64y1P7R)（240122）
+> [天选4拆机](https://www.bilibili.com/video/BV1cj411o7yz)（230717）
 
 ROG（玩家国度）
+
 > 魔霸7plus：BV19T411r7dE（230317）（液金机型只负责简单清灰，禁止拆散热模组！！！）
 
 戴尔
-> [G15拆机](https://www.bilibili.com/video/BV13h411m79S) 受制于主板倒装结构 故拆解过程非常麻烦 如果需要换硅脂,需要拆下几乎所有部件
 
+> [G15拆机](https://www.bilibili.com/video/BV13h411m79S) 受制于主板倒装结构 故拆解过程非常麻烦 如果需要换硅脂,需要拆下几乎所有部件
 
 华为：（轻薄本代表）
 
->[matebook14拆机](https://www.bilibili.com/video/BV1hA4m1V7bQ)（240215）
+> [matebook14拆机](https://www.bilibili.com/video/BV1hA4m1V7bQ)（240215）
 
 其余品牌机型请在值班遇到时自行百度
 
 #### 2.系统重装：
 
-要求每人制作一个启动盘（带有win11，win10镜像），值班时用:
+首先系统是什么笔者就不细讲了，目前市面上在售所有笔记本几乎都采用win11，但由于种种原因，使用win10的人也不在少数，因此我们在准备工具的时候，也尽可能准备得全面一些。但有一点各位须注意，重装系统时一个随时在手边可用的PE盘是必不可少的。（用处的话详见下边的视频）(250819)
 
-[系统重装教程](https://www.bilibili.com/video/BV19T411r7dE)（240914）   
-启动盘制作软件:[u启通](https://www.itsk.com/thread/431283)   
-[win11镜像](https://www.microsoft.com/zh-cn/software-download/windows11)   
-常用系统工具合计:[图吧工具箱](https://www.tbtool.cn/)
+要求每人制作一个PE盘（带有win10，win11镜像），值班时用:
+
+[系统重装&amp;PE盘制作教程](https://www.bilibili.com/video/BV1DJ411D79y)（240914）
+PE盘制作软件:
+[u启通](https://www.itsk.com/thread/431283)
+[微pe](https://www.wepe.com.cn/)(250819)
+
+[win11镜像](https://www.microsoft.com/zh-cn/software-download/windows11)
+
+常用系统工具合集:[图吧工具箱](https://www.tbtool.cn/)
 
 #### 3.系统引导修复：
 
+由于系统引导修复问题比较少见，在此不多赘述，各位了解掌握初级的修复方式即可。(250819)
 [dism++使用教程](https://www.bilibili.com/video/BV1ae411e7ck)（了解即可）(240109)
 
 #### 4.电脑实用软件推荐：
-（不知道用处请自行百度）
 
-[U启通](https://www.itsk.com/thread/431283)
+~~（不知道用处请自行百度）~~  (←_←)能不能友好一点(250819)
 
-[geek](https://geekuninstaller.com/)  
+卸载工具：
+
+[geek](https://geekuninstaller.com/)
+
+[hibit](https://hibitsoft.ir/Uninstaller.html)
+
+文件查找：
 
 [everything](https://www.voidtools.com/zh-cn/)
 
+硬盘管理：
+
 [DiskGenius](https://www.diskgenius.cn/)
+
+垃圾佬工具合集（骗你的修电脑也用得上）：
 
 [图吧工具箱](https://www.tbtool.cn/)
 
+游戏性能检测&游戏必备运行库补全（说真的这个补dll超好用）：
+
 [Game++](https://gamepp.com/)
+
+解压软件：
 
 [winrar](https://www.winrar.com.cn/)
 
+[bandizip](https://www.bandisoft.com/bandizip/)
+
+课表app：
+
 [矿小助](https://kxz.atcumt.com/)
+
+电脑播放器：
 
 [PotPlayer](https://potplayer.org/)
 
+[VLC](https://www.videolan.org/)
+
+~~神秘字符串所需（快入土了）~~
+
 [BitComet](https://www.bitcomet.com/cn)
 
+这下不怕下到steam游戏管家了：
+
 [steam](https://store.steampowered.com/)
+
+电脑截图工具：
+
+[pixpin](https://pixpin.cn/)
+
+office安装&卸载&激活工具：
+
+[OTP](https://otp.landian.vip/zh-cn/)
+
+文件格式转换工具：
+
+[FileConverter](https://github.com/Tichau/FileConverter/releases)
 
 ### 部门职能篇进阶部分
 
@@ -163,12 +204,24 @@ ROG（玩家国度）
 
 #### 2.台式机组装
 
+首先请各位记住，台式机的组成有**八大件**：
+1.主板
+2.CPU
+3.内存
+4.硬盘
+5.显卡（GPU）
+6.电源
+7. ~~萝卜~~ 散热器
+8. ~~鞋盒~~ 机箱
+除此之外还有许许多多的其它零散小配件如风扇、集线器、PCIE拓展卡之类的，这些等遇到了再说吧（绝不是懒）
+
 不同的硬件有不同的特点，即使是教程也无法全面覆盖，组装台式时，网上看视频和看说明书是一个很好的习惯。
 
-[安装教程](https://www.bilibili.com/video/BV1BG4y137mG)（221210）   
+[安装教程](https://www.bilibili.com/video/BV1BG4y137mG)（221210）
 硬件推荐请看硬件篇
 
 #### 3.电脑故障排查
+
 （这已经不是普通的问题了，要出重拳（bushi））
 
 电脑故障时有发生，可大可小，十分考验人的综合能力，在这里不可能一一列举。
@@ -177,8 +230,26 @@ ROG（玩家国度）
 
 常见问题举例：（有空填坑）
 
-#### 4.虚拟机与wsl
+1. 电脑蓝屏
+   1. 首先询问机主有无蓝屏时照片
+   2. 有
+      1. 对照蓝屏照片内错误码上网搜索
+      2. 搜索到可能原因后着手解决
+      3. 无法解决则告明机主并建议寻求专业帮助，切莫逞强
+   3. 无
+      1. 尝试按照机主回忆复现蓝屏状况
+      2. 根据状况判断问题所在
+      3. 硬件导致：建议机主更换硬件
+      4. 软件导致：卸载软件/寻求专业帮助
+2. 电脑卡顿
+   很难评
+   这就像你去看医生，“我不舒服”
+   “哪里不舒服”
+   “不知道，总之就是不舒服”
+   ......(╯‵□′)╯︵┻━┻
+3. 
 
+#### 4.虚拟机与wsl
 
 ## 三.硬件篇(未完工)
 
@@ -253,6 +324,7 @@ cpu和主板一般是配套的，主要考虑的因素应该是m2接口数量，
 ### 3.显卡
 
 #### 省流版购买建议
+
 1000元档，A380，A580（千元里为数不多的全新卡，我劝你别买，我买你别劝）
 3050(n卡唯一的全新卡)，1070ti,1080,2060s,2070(默认矿卡，不推荐)
 5700xt，6600（前者矿卡，但性能强，后者功耗低，个人二手卡较多）
@@ -295,6 +367,7 @@ DDR4目前仅am4老用户升级和购入降价的14600kf的情况下购买，目
 2. 原厂/非原厂 原厂指能够自主生产颗粒的厂商推出的固态（三星/西数/铠侠/
 
    > 长存（仅限于致钛，不包括其他任何品牌）/海力士）鉴于当下硬盘价格（2024.9）
+   >
 
 只推荐原厂硬盘
 
@@ -341,13 +414,18 @@ DDR4目前仅am4老用户升级和购入降价的14600kf的情况下购买，目
 
 ### 7.网卡
 
+购买之前请先确定自己有没有购买的需要，如果你的主板有板载无线网卡则额外购买无线网卡的意义不大，更多的是给图省钱买了不带无线网卡的朋友准备的
+
 #### 省流版购买推荐：
 
 intel AX210
 
-### 散热
+### 8.散热
 
 #### 省流版购买推荐：
+
+~~去菜市场买根白萝卜从中间切开，然后扣到CPU上你就可以开始使用了~~
+
 显卡散热以及风冷散热数据建议参考B站UP：51972
 
 CPU散热，我们不主张传播散热焦虑，你的电脑不是无时无刻都在烤机。
@@ -357,14 +435,14 @@ CPU散热，我们不主张传播散热焦虑，你的电脑不是无时无刻�
 hyper612，阿萨辛4等顶级塔式根据实际需求讨论。
 水冷散热器
 
-
 机箱风扇，首先拉黑好评如潮的低价棱镜RGB风扇谢谢喵，风扇本身的性能参数有最大转速，轴承类型，风压，风量，噪音等，RGB需要看个人喜好，而在机箱中，好的风道构建往往比同价位纠结究竟该选哪个品牌的风扇更有意义。此处添加三个链接
+
 * [风道测评](https://www.bilibili.com/video/BV14rLdzoEU9)
 * [风道构建](https://b23.tv/oyQiztB)
 * [风扇推荐](https://b23.tv/AsNgon1)
-如果预算低可以考虑利民C12C，玄冥普等，如果预算更多则可以考虑积木扇或者性能扇，可选择的种类较多，可参考上面的链接。
+  如果预算低可以考虑利民C12C，玄冥普等，如果预算更多则可以考虑积木扇或者性能扇，可选择的种类较多，可参考上面的链接。
 
-### 8.机箱
+### 9.机箱
 
 #### 省流购买推荐：
 
@@ -372,7 +450,7 @@ hyper612，阿萨辛4等顶级塔式根据实际需求讨论。
 
 其他情况根据自己的预算和喜好即可。推荐品牌：乔思伯，大水牛，先马，爱国者，酷冷至尊等。
 
-### 9.显示器
+### 10.显示器
 
 #### 省流购买推荐：
 
@@ -380,17 +458,18 @@ hyper612，阿萨辛4等顶级塔式根据实际需求讨论。
 
 平衡：2k144hzIPS显示器足够应付大多数使用场景。价格在500-1000之间。
 
-追求极画面：4k60hz或4k120hz，这个时候主要考虑的一般不是显示屏，而是自己的显卡是否有能力带动如此高的画质，推荐显卡在4070s以上的主机使用。
+追求极致画面：4k60hz或4k120hz/4k160hz，这个时候主要考虑的一般不是显示屏，而是自己的显卡是否有能力带动如此高的画质，推荐显卡在4070s以上的主机使用。
 
-### 10.鼠标
+### 11.鼠标
 
 #### 省流版购买推荐
 
-有线g102，无线g304（极为片面）  
-罗技售后政策已更新，百元左右可考虑一些国产卷王的PAW3395产品。 
+关于鼠标，请一定记住：尽量轻一些，重了等你腱鞘炎发作就老实了（
+有线g102，无线g304（极为片面）
+罗技售后政策已更新，百元左右可考虑一些国产卷王的PAW3395产品。
 京东白条立即借立即还，可以白嫖80元
 
-### 11.键盘
+### 12.键盘
 
 #### 省流版购买推荐
 
@@ -400,7 +479,7 @@ hyper612，阿萨辛4等顶级塔式根据实际需求讨论。
 
 笔者使用的是n75pro（200元），82键便于携带，小书包也能装下，但是声音绝对算不上静音，不适合晚上使用。
 
-### 12.手柄
+### 13.手柄
 
 50元档无脑盖世小鸡，100元档可当北通之子，200元档偏3A无脑Xbox，偏fps考虑国产的花活，300元档偏3A无脑DS5，偏fps考虑国产。
 
